@@ -1,0 +1,48 @@
+html, body
+{
+	background: #fff;
+	font-family: "Helvetica";
+	hyphens: auto;
+	margin: 0 auto;
+	outline: 0;
+	padding: 0;
+}
+
+a
+{
+	color: #025eee;
+	font-weight: bold;
+	outline: 0;
+	text-decoration: none;
+}
+
+h1
+{
+	font-size: 1.6rem;
+	text-wrap: balance;
+}
+
+.caption
+{
+	font-size: 1.3rem;
+	margin-top: 20px;
+	text-wrap: balance;
+}
+
+.caption-second-line
+{
+	display: block;
+	font-size: 1.1rem;
+	margin-top: 4px;
+}
+
+.main-div
+{
+	margin: 34px 13px 36px 13px;
+	text-align: center;
+}
+
+@media only screen and (min-width: 750px)
+{
+	body { width: 43.1%; }
+}
