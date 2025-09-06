@@ -18,15 +18,21 @@ a
 
 h1
 {
-	font-size: 1.4rem;
+	font-size: 1rem;
+	font-weight: normal;
+	margin-top: 9px;
 	text-wrap: balance;
 }
 
-.arrow
+.navigation
 {
-
-	font-size: 1.8rem;
-	margin-top: 28px;
+	display: grid;
+	font-size: 1.95rem;
+	font-weight: bold;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	height: 23px;
+	line-height: 0.8;
+	margin-top: 35px;
 }
 
 .caption
@@ -45,11 +51,12 @@ h1
 
 .main-div
 {
-	margin: 34px 13px 36px 13px;
+	margin: 19px 19px 0px 19px;
+	padding-bottom: 40px;
 	text-align: center;
 }
 
 @media only screen and (min-width: 750px)
 {
-	body { width: 38%; }
+	body { width: 43.2%; }
 }
