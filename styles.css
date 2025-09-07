@@ -24,17 +24,6 @@ h1
 	text-wrap: balance;
 }
 
-.navigation
-{
-	display: grid;
-	font-size: 1.95rem;
-	font-weight: bold;
-	grid-template-columns: repeat(3, minmax(0, 1fr));
-	height: 23px;
-	line-height: 0.8;
-	margin-top: 35px;
-}
-
 .caption
 {
 	font-size: 1.3rem;
@@ -54,6 +43,17 @@ h1
 	margin: 19px 19px 0px 19px;
 	padding-bottom: 40px;
 	text-align: center;
+}
+
+.navigation
+{
+	display: grid;
+	font-size: 1.95rem;
+	font-weight: bold;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	height: 23px;
+	line-height: 0.8;
+	margin-top: 35px;
 }
 
 .triangle-left
