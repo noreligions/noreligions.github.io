@@ -20,6 +20,7 @@ h1
 {
 	font-size: 1rem;
 	font-weight: normal;
+	line-height: 1.2;
 	margin-top: 9px;
 	text-wrap: balance;
 }
