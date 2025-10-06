@@ -75,7 +75,7 @@ h1
 	display: grid;
 	font-size: 1.4rem;
 	grid-template-columns: repeat(3, minmax(0, 1fr));
-	line-height: 1.1;
+	line-height: 1.15;
 	margin-right: -2px;
 	margin-top: 36px;
 	text-align: justify;
