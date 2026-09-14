@@ -36,6 +36,8 @@ Books “Liberated from Religion” and “Wasting Time on God”, by Paulo Bitt
 
 <a href="https://bittencourt.pages.dev/reflections">Religion is Madness</a>
 
+<a href="https://bittencourt.pages.dev/cognitive-dissonance">Evangelical Church of Cognitive Dissonance</a>
+
 <a href="https://bittencourt.pages.dev/jean-meslier-testament">Jean Meslier’s Testament</a>
 
 <a href="https://bittencourt.pages.dev/religious-trauma">Treating Religious Wounds</a>
